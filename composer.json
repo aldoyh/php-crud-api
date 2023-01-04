@@ -1,5 +1,5 @@
 {
-    "name": "mevdschee/php-crud-api",
+    "name": "tayet/crud-api",
     "type": "library",
     "description": "Single file PHP script that adds a REST API to a SQL database.",
     "keywords": [
@@ -32,7 +32,7 @@
       }
     ],
     "require": {
-      "php": ">=7.0.0",
+      "php": ">=8.1",
       "ext-zlib": "*",
       "ext-json": "*",
       "ext-pdo": "*",
